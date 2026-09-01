@@ -1,0 +1,23 @@
+services:
+  bench:
+    build: .
+    image: mem0-bench:latest
+    env_file:
+      - .env
+    volumes:
+      - ./results:/app/results
+      - ./datasets:/app/datasets
+    entrypoint: ["mem0-bench"]
+    command: ["--help"]
+
+  dashboard:
+    build: .
+    image: mem0-bench:latest
+    env_file:
+      - .env
+    volumes:
+      - ./results:/app/results
+      - ./datasets:/app/datasets
+    entrypoint: ["python", "-m", "streamlit", "run", "dashboard/app.py", "--server.address=0.0.0.0"]
+    ports:
+      - "8501:8501"

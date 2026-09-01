@@ -1,0 +1,52 @@
+# Top-level benchmark configuration. Values here are overridden by CLI flags
+# when given (e.g. `--seed`, `--top-k`).
+
+seed: 42
+concurrency: 4
+output_dir: results
+top_k: 5
+
+llm:
+  provider: local        # "local" (offline, deterministic, free) or "openai"
+  model: local-extractive-v1
+  temperature: 0.0
+  timeout_s: 30.0
+
+embeddings:
+  provider: hashing       # "hashing" (offline, deterministic, free) or "openai"
+  model: hashing-512
+  dim: 512
+
+tokenizer:
+  provider: approximate   # "approximate" (offline) or "tiktoken" (needs network on first use)
+
+judge:
+  enabled: false          # optional LLM-as-judge for answer quality; off by default
+  provider: openai
+  model: gpt-4o-mini
+
+efficiency_score:
+  enabled: true
+  weight_accuracy: 0.5
+  weight_latency: 0.3
+  weight_tokens: 0.2
+  latency_reference_ms: 2000.0
+  tokens_reference: 4000.0
+
+retry:
+  max_attempts: 4
+  backoff_seconds: 0.5
+  backoff_max_seconds: 8.0
+
+# USD per 1,000 tokens, keyed by model name. Used only for cost estimation;
+# never hardcoded into evaluation logic. Update to match current provider pricing.
+pricing:
+  local-extractive-v1:
+    input_per_1k: 0.0
+    output_per_1k: 0.0
+  gpt-4o-mini:
+    input_per_1k: 0.00015
+    output_per_1k: 0.0006
+  gpt-4o:
+    input_per_1k: 0.0025
+    output_per_1k: 0.01

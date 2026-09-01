@@ -1,0 +1,16 @@
+# Preset for a focused retrieval-quality comparison.
+# Usage: generate a dataset with these params, then:
+#   mem0-bench compare --backends mem0,rag,full-context --dataset <generated file> --top-k 5
+
+description: >
+  Compares Precision/Recall/F1/MRR/nDCG/Hit-Rate@{1,3,5} across backends on a
+  moderate-length, distractor-heavy history where retrieval quality (not
+  scale) is the bottleneck.
+
+dataset:
+  users: 20
+  turns: 100
+  seed: 42
+
+top_k: 5
+backends: [mem0, rag, full-context]

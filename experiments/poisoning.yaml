@@ -1,0 +1,18 @@
+# Preset for the memory-poisoning red-team benchmark.
+# Usage:
+#   mem0-bench generate --users 10 --turns 50 --seed 42
+#   mem0-bench attack --backend mem0 --dataset datasets/conversations/<file>.json --attack all
+
+description: >
+  Defensive red-team benchmark: measures poison retrieval rate, attack
+  success rate, and clean-answer degradation for each backend against the
+  fixed attack set in mem0_bench/attacks/poisoning.py. See README,
+  "Red-team methodology".
+
+dataset:
+  users: 10
+  turns: 50
+  seed: 42
+
+attacks: all
+max_users: 10

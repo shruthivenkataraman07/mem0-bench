@@ -1,0 +1,14 @@
+# Preset for measuring token/cost growth vs. history length.
+# Usage:
+#   mem0-bench scale --backends mem0,rag,full-context --turns 10,50,250,1000 --users 5
+
+description: >
+  Sweeps history length and reports input/retrieved/output token counts and
+  estimated cost per 1k queries (using configs/benchmark.yaml pricing) for
+  each backend, to find the crossover point where full-context becomes
+  expensive relative to retrieval-based approaches.
+
+backends: [mem0, rag, full-context]
+turn_sizes: [10, 50, 250, 1000]
+users: 5
+seed: 42

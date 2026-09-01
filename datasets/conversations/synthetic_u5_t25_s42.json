@@ -1,0 +1,3196 @@
+{
+  "dataset_id": "synthetic_u5_t25_s42",
+  "version": "1.0",
+  "seed": 42,
+  "generated_at": "2026-09-01T08:12:27.030780Z",
+  "users": [
+    {
+      "user_id": "user_000",
+      "seed": 42,
+      "messages": [
+        {
+          "message_id": "user_000_msg_0001",
+          "session_id": "user_000_session_000",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-08T09:00:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0002",
+          "session_id": "user_000_session_000",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-08T09:02:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0003",
+          "session_id": "user_000_session_000",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-08T09:03:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0004",
+          "session_id": "user_000_session_000",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-08T09:05:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0005",
+          "session_id": "user_000_session_000",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I work at Cloudflare.",
+          "timestamp": "2024-01-08T09:06:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0006",
+          "session_id": "user_000_session_000",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-08T09:08:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0007",
+          "session_id": "user_000_session_000",
+          "turn_index": 6,
+          "role": "user",
+          "content": "One of my goals this year is to write a novel.",
+          "timestamp": "2024-01-08T09:09:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0008",
+          "session_id": "user_000_session_000",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-08T09:11:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0009",
+          "session_id": "user_000_session_000",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I tried Italian food last night for the first time, it was okay.",
+          "timestamp": "2024-01-08T09:12:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0010",
+          "session_id": "user_000_session_000",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:14:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0011",
+          "session_id": "user_000_session_000",
+          "turn_index": 10,
+          "role": "user",
+          "content": "My favorite type of food is Mexican.",
+          "timestamp": "2024-01-08T09:15:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0012",
+          "session_id": "user_000_session_000",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-08T09:17:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0013",
+          "session_id": "user_000_session_000",
+          "turn_index": 12,
+          "role": "user",
+          "content": "My role is product manager.",
+          "timestamp": "2024-01-08T09:18:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0014",
+          "session_id": "user_000_session_000",
+          "turn_index": 13,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:20:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0015",
+          "session_id": "user_000_session_001",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I recently took up bouldering as a hobby.",
+          "timestamp": "2024-01-15T09:21:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0016",
+          "session_id": "user_000_session_001",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-15T09:23:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0017",
+          "session_id": "user_000_session_001",
+          "turn_index": 2,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-15T09:24:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0018",
+          "session_id": "user_000_session_001",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-15T09:26:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0019",
+          "session_id": "user_000_session_001",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-15T09:27:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0020",
+          "session_id": "user_000_session_001",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-15T09:29:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0021",
+          "session_id": "user_000_session_001",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-15T09:30:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0022",
+          "session_id": "user_000_session_001",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-15T09:32:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0023",
+          "session_id": "user_000_session_001",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-01-15T09:33:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0024",
+          "session_id": "user_000_session_001",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-15T09:35:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0025",
+          "session_id": "user_000_session_002",
+          "turn_index": 0,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-22T09:36:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0026",
+          "session_id": "user_000_session_002",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-22T09:38:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0027",
+          "session_id": "user_000_session_002",
+          "turn_index": 2,
+          "role": "user",
+          "content": "my phone battery has been dying fast",
+          "timestamp": "2024-01-22T09:39:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0028",
+          "session_id": "user_000_session_002",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:41:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0029",
+          "session_id": "user_000_session_002",
+          "turn_index": 4,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-22T09:42:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0030",
+          "session_id": "user_000_session_002",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-22T09:44:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0031",
+          "session_id": "user_000_session_002",
+          "turn_index": 6,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-22T09:45:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0032",
+          "session_id": "user_000_session_002",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:47:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0033",
+          "session_id": "user_000_session_002",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I live in Vancouver now.",
+          "timestamp": "2024-01-22T09:48:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0034",
+          "session_id": "user_000_session_002",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-22T09:50:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0035",
+          "session_id": "user_000_session_002",
+          "turn_index": 10,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-22T09:51:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0036",
+          "session_id": "user_000_session_002",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-22T09:53:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0037",
+          "session_id": "user_000_session_002",
+          "turn_index": 12,
+          "role": "user",
+          "content": "I started working on a new project called Atlas.",
+          "timestamp": "2024-01-22T09:54:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0038",
+          "session_id": "user_000_session_002",
+          "turn_index": 13,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-22T09:56:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0039",
+          "session_id": "user_000_session_003",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-29T09:57:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0040",
+          "session_id": "user_000_session_003",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-29T09:59:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0041",
+          "session_id": "user_000_session_003",
+          "turn_index": 2,
+          "role": "user",
+          "content": "My role is ML engineer.",
+          "timestamp": "2024-01-29T10:00:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0042",
+          "session_id": "user_000_session_003",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-29T10:02:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0043",
+          "session_id": "user_000_session_003",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I work at Figma.",
+          "timestamp": "2024-01-29T10:03:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0044",
+          "session_id": "user_000_session_003",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-29T10:05:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0045",
+          "session_id": "user_000_session_003",
+          "turn_index": 6,
+          "role": "user",
+          "content": "Quick update on Project Atlas: Marcus and I shipped the first milestone.",
+          "timestamp": "2024-01-29T10:06:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0046",
+          "session_id": "user_000_session_003",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-29T10:08:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0047",
+          "session_id": "user_000_session_003",
+          "turn_index": 8,
+          "role": "user",
+          "content": "A friend of mine just joined Google.",
+          "timestamp": "2024-01-29T10:09:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0048",
+          "session_id": "user_000_session_003",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-29T10:11:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0049",
+          "session_id": "user_000_session_003",
+          "turn_index": 10,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-29T10:12:00Z"
+        },
+        {
+          "message_id": "user_000_msg_0050",
+          "session_id": "user_000_session_003",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-29T10:14:00Z"
+        }
+      ],
+      "gold_memories": [
+        {
+          "memory_id": "user_000_mem_0001",
+          "content": "I work at Cloudflare.",
+          "session_id": "user_000_session_000",
+          "message_id": "user_000_msg_0005",
+          "timestamp": "2024-01-08T09:06:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": "user_000_mem_0002",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_000_mem_0002",
+          "content": "I work at Figma.",
+          "session_id": "user_000_session_003",
+          "message_id": "user_000_msg_0043",
+          "timestamp": "2024-01-29T10:03:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_000_mem_0003",
+          "content": "My role is product manager.",
+          "session_id": "user_000_session_000",
+          "message_id": "user_000_msg_0013",
+          "timestamp": "2024-01-08T09:18:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": "user_000_mem_0004",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_000_mem_0004",
+          "content": "My role is ML engineer.",
+          "session_id": "user_000_session_003",
+          "message_id": "user_000_msg_0041",
+          "timestamp": "2024-01-29T10:00:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_000_mem_0005",
+          "content": "I live in Vancouver now.",
+          "session_id": "user_000_session_002",
+          "message_id": "user_000_msg_0033",
+          "timestamp": "2024-01-22T09:48:00Z",
+          "entity": null,
+          "fact_type": "city",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_000_mem_0006",
+          "content": "My favorite type of food is Mexican.",
+          "session_id": "user_000_session_000",
+          "message_id": "user_000_msg_0011",
+          "timestamp": "2024-01-08T09:15:00Z",
+          "entity": null,
+          "fact_type": "food_preference",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_000_mem_0007",
+          "content": "I recently took up bouldering as a hobby.",
+          "session_id": "user_000_session_001",
+          "message_id": "user_000_msg_0015",
+          "timestamp": "2024-01-15T09:21:00Z",
+          "entity": null,
+          "fact_type": "hobby",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_000_mem_0008",
+          "content": "One of my goals this year is to write a novel.",
+          "session_id": "user_000_session_000",
+          "message_id": "user_000_msg_0007",
+          "timestamp": "2024-01-08T09:09:00Z",
+          "entity": null,
+          "fact_type": "goal",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_000_mem_0009",
+          "content": "I started working on a new project called Atlas.",
+          "session_id": "user_000_session_002",
+          "message_id": "user_000_msg_0037",
+          "timestamp": "2024-01-22T09:54:00Z",
+          "entity": "Atlas",
+          "fact_type": "project",
+          "superseded_by": "user_000_mem_0010",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_000_mem_0010",
+          "content": "Quick update on Project Atlas: Marcus and I shipped the first milestone.",
+          "session_id": "user_000_session_003",
+          "message_id": "user_000_msg_0045",
+          "timestamp": "2024-01-29T10:06:00Z",
+          "entity": "Atlas",
+          "fact_type": "project",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_000_mem_0011",
+          "content": "A friend of mine just joined Google.",
+          "session_id": "user_000_session_003",
+          "message_id": "user_000_msg_0047",
+          "timestamp": "2024-01-29T10:09:00Z",
+          "entity": null,
+          "fact_type": "distractor_employer",
+          "superseded_by": null,
+          "is_current": false
+        },
+        {
+          "memory_id": "user_000_mem_0012",
+          "content": "I tried Italian food last night for the first time, it was okay.",
+          "session_id": "user_000_session_000",
+          "message_id": "user_000_msg_0009",
+          "timestamp": "2024-01-08T09:12:00Z",
+          "entity": null,
+          "fact_type": "distractor_food",
+          "superseded_by": null,
+          "is_current": false
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "user_000_q_001",
+          "category": "preference",
+          "query": "What kind of food do I prefer?",
+          "expected_answer": "Mexican",
+          "expected_memory_ids": [
+            "user_000_mem_0006"
+          ],
+          "asked_after_session": "user_000_session_003",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_000_q_002",
+          "category": "temporal",
+          "query": "What city do I currently live in?",
+          "expected_answer": "Vancouver",
+          "expected_memory_ids": [
+            "user_000_mem_0005"
+          ],
+          "asked_after_session": "user_000_session_003",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_000_q_003",
+          "category": "entity",
+          "query": "What did I tell you about Project Atlas?",
+          "expected_answer": "Working on Project Atlas with Marcus, who shipped the first milestone",
+          "expected_memory_ids": [
+            "user_000_mem_0009",
+            "user_000_mem_0010"
+          ],
+          "asked_after_session": "user_000_session_003",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_000_q_004",
+          "category": "multi_hop",
+          "query": "What is my current role and where do I currently work?",
+          "expected_answer": "ML engineer at Figma",
+          "expected_memory_ids": [
+            "user_000_mem_0004",
+            "user_000_mem_0002"
+          ],
+          "asked_after_session": "user_000_session_003",
+          "is_distractor_heavy": false,
+          "notes": "Requires combining two independent memories."
+        },
+        {
+          "question_id": "user_000_q_005",
+          "category": "contradiction",
+          "query": "Where do I currently work?",
+          "expected_answer": "Figma",
+          "expected_memory_ids": [
+            "user_000_mem_0002"
+          ],
+          "asked_after_session": "user_000_session_003",
+          "is_distractor_heavy": false,
+          "notes": "Supersedes earlier employer(s): Cloudflare."
+        },
+        {
+          "question_id": "user_000_q_006",
+          "category": "long_horizon",
+          "query": "What hobby did I mention taking up?",
+          "expected_answer": "bouldering",
+          "expected_memory_ids": [
+            "user_000_mem_0007"
+          ],
+          "asked_after_session": "user_000_session_003",
+          "is_distractor_heavy": false,
+          "notes": "Stated in session 0 of 4; asked at the end of the history."
+        },
+        {
+          "question_id": "user_000_q_007",
+          "category": "distractor",
+          "query": "What is my own favorite type of cuisine (not a friend's or something I merely tried)?",
+          "expected_answer": "Mexican",
+          "expected_memory_ids": [
+            "user_000_mem_0006"
+          ],
+          "asked_after_session": "user_000_session_003",
+          "is_distractor_heavy": true,
+          "notes": "Conversation contains several unrelated food/employer mentions as distractors."
+        }
+      ]
+    },
+    {
+      "user_id": "user_001",
+      "seed": 42,
+      "messages": [
+        {
+          "message_id": "user_001_msg_0001",
+          "session_id": "user_001_session_000",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I tried Japanese food last night for the first time, it was okay.",
+          "timestamp": "2024-01-08T09:00:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0002",
+          "session_id": "user_001_session_000",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:02:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0003",
+          "session_id": "user_001_session_000",
+          "turn_index": 2,
+          "role": "user",
+          "content": "A friend of mine just joined Meta.",
+          "timestamp": "2024-01-08T09:03:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0004",
+          "session_id": "user_001_session_000",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-08T09:05:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0005",
+          "session_id": "user_001_session_000",
+          "turn_index": 4,
+          "role": "user",
+          "content": "My favorite type of food is Mediterranean.",
+          "timestamp": "2024-01-08T09:06:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0006",
+          "session_id": "user_001_session_000",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:08:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0007",
+          "session_id": "user_001_session_000",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I work at Netflix.",
+          "timestamp": "2024-01-08T09:09:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0008",
+          "session_id": "user_001_session_000",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-08T09:11:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0009",
+          "session_id": "user_001_session_000",
+          "turn_index": 8,
+          "role": "user",
+          "content": "One of my goals this year is to get a pilot's license.",
+          "timestamp": "2024-01-08T09:12:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0010",
+          "session_id": "user_001_session_000",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:14:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0011",
+          "session_id": "user_001_session_000",
+          "turn_index": 10,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-08T09:15:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0012",
+          "session_id": "user_001_session_000",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-08T09:17:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0013",
+          "session_id": "user_001_session_000",
+          "turn_index": 12,
+          "role": "user",
+          "content": "My role is software engineer.",
+          "timestamp": "2024-01-08T09:18:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0014",
+          "session_id": "user_001_session_000",
+          "turn_index": 13,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:20:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0015",
+          "session_id": "user_001_session_001",
+          "turn_index": 0,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-15T09:21:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0016",
+          "session_id": "user_001_session_001",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-15T09:23:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0017",
+          "session_id": "user_001_session_001",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I recently took up woodworking as a hobby.",
+          "timestamp": "2024-01-15T09:24:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0018",
+          "session_id": "user_001_session_001",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-15T09:26:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0019",
+          "session_id": "user_001_session_001",
+          "turn_index": 4,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-15T09:27:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0020",
+          "session_id": "user_001_session_001",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-15T09:29:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0021",
+          "session_id": "user_001_session_001",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-15T09:30:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0022",
+          "session_id": "user_001_session_001",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-15T09:32:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0023",
+          "session_id": "user_001_session_001",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-01-15T09:33:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0024",
+          "session_id": "user_001_session_001",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-15T09:35:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0025",
+          "session_id": "user_001_session_002",
+          "turn_index": 0,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-22T09:36:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0026",
+          "session_id": "user_001_session_002",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:38:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0027",
+          "session_id": "user_001_session_002",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-22T09:39:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0028",
+          "session_id": "user_001_session_002",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-22T09:41:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0029",
+          "session_id": "user_001_session_002",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-22T09:42:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0030",
+          "session_id": "user_001_session_002",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-22T09:44:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0031",
+          "session_id": "user_001_session_002",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-22T09:45:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0032",
+          "session_id": "user_001_session_002",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-22T09:47:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0033",
+          "session_id": "user_001_session_002",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-22T09:48:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0034",
+          "session_id": "user_001_session_002",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-22T09:50:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0035",
+          "session_id": "user_001_session_003",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I work at Airbnb.",
+          "timestamp": "2024-01-29T09:51:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0036",
+          "session_id": "user_001_session_003",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-29T09:53:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0037",
+          "session_id": "user_001_session_003",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I started working on a new project called Falcon.",
+          "timestamp": "2024-01-29T09:54:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0038",
+          "session_id": "user_001_session_003",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-29T09:56:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0039",
+          "session_id": "user_001_session_003",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-29T09:57:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0040",
+          "session_id": "user_001_session_003",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-29T09:59:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0041",
+          "session_id": "user_001_session_003",
+          "turn_index": 6,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-29T10:00:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0042",
+          "session_id": "user_001_session_003",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-29T10:02:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0043",
+          "session_id": "user_001_session_003",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-29T10:03:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0044",
+          "session_id": "user_001_session_003",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-29T10:05:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0045",
+          "session_id": "user_001_session_003",
+          "turn_index": 10,
+          "role": "user",
+          "content": "My role is data scientist.",
+          "timestamp": "2024-01-29T10:06:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0046",
+          "session_id": "user_001_session_003",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-29T10:08:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0047",
+          "session_id": "user_001_session_004",
+          "turn_index": 0,
+          "role": "user",
+          "content": "Quick update on Project Falcon: Liam and I shipped the first milestone.",
+          "timestamp": "2024-02-05T10:09:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0048",
+          "session_id": "user_001_session_004",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-02-05T10:11:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0049",
+          "session_id": "user_001_session_004",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I live in Seattle now.",
+          "timestamp": "2024-02-05T10:12:00Z"
+        },
+        {
+          "message_id": "user_001_msg_0050",
+          "session_id": "user_001_session_004",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-02-05T10:14:00Z"
+        }
+      ],
+      "gold_memories": [
+        {
+          "memory_id": "user_001_mem_0001",
+          "content": "I work at Netflix.",
+          "session_id": "user_001_session_000",
+          "message_id": "user_001_msg_0007",
+          "timestamp": "2024-01-08T09:09:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": "user_001_mem_0002",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_001_mem_0002",
+          "content": "I work at Airbnb.",
+          "session_id": "user_001_session_003",
+          "message_id": "user_001_msg_0035",
+          "timestamp": "2024-01-29T09:51:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_001_mem_0003",
+          "content": "My role is software engineer.",
+          "session_id": "user_001_session_000",
+          "message_id": "user_001_msg_0013",
+          "timestamp": "2024-01-08T09:18:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": "user_001_mem_0004",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_001_mem_0004",
+          "content": "My role is data scientist.",
+          "session_id": "user_001_session_003",
+          "message_id": "user_001_msg_0045",
+          "timestamp": "2024-01-29T10:06:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_001_mem_0005",
+          "content": "I live in Seattle now.",
+          "session_id": "user_001_session_004",
+          "message_id": "user_001_msg_0049",
+          "timestamp": "2024-02-05T10:12:00Z",
+          "entity": null,
+          "fact_type": "city",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_001_mem_0006",
+          "content": "My favorite type of food is Mediterranean.",
+          "session_id": "user_001_session_000",
+          "message_id": "user_001_msg_0005",
+          "timestamp": "2024-01-08T09:06:00Z",
+          "entity": null,
+          "fact_type": "food_preference",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_001_mem_0007",
+          "content": "I recently took up woodworking as a hobby.",
+          "session_id": "user_001_session_001",
+          "message_id": "user_001_msg_0017",
+          "timestamp": "2024-01-15T09:24:00Z",
+          "entity": null,
+          "fact_type": "hobby",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_001_mem_0008",
+          "content": "One of my goals this year is to get a pilot's license.",
+          "session_id": "user_001_session_000",
+          "message_id": "user_001_msg_0009",
+          "timestamp": "2024-01-08T09:12:00Z",
+          "entity": null,
+          "fact_type": "goal",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_001_mem_0009",
+          "content": "I started working on a new project called Falcon.",
+          "session_id": "user_001_session_003",
+          "message_id": "user_001_msg_0037",
+          "timestamp": "2024-01-29T09:54:00Z",
+          "entity": "Falcon",
+          "fact_type": "project",
+          "superseded_by": "user_001_mem_0010",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_001_mem_0010",
+          "content": "Quick update on Project Falcon: Liam and I shipped the first milestone.",
+          "session_id": "user_001_session_004",
+          "message_id": "user_001_msg_0047",
+          "timestamp": "2024-02-05T10:09:00Z",
+          "entity": "Falcon",
+          "fact_type": "project",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_001_mem_0011",
+          "content": "I tried Japanese food last night for the first time, it was okay.",
+          "session_id": "user_001_session_000",
+          "message_id": "user_001_msg_0001",
+          "timestamp": "2024-01-08T09:00:00Z",
+          "entity": null,
+          "fact_type": "distractor_food",
+          "superseded_by": null,
+          "is_current": false
+        },
+        {
+          "memory_id": "user_001_mem_0012",
+          "content": "A friend of mine just joined Meta.",
+          "session_id": "user_001_session_000",
+          "message_id": "user_001_msg_0003",
+          "timestamp": "2024-01-08T09:03:00Z",
+          "entity": null,
+          "fact_type": "distractor_employer",
+          "superseded_by": null,
+          "is_current": false
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "user_001_q_001",
+          "category": "preference",
+          "query": "What kind of food do I prefer?",
+          "expected_answer": "Mediterranean",
+          "expected_memory_ids": [
+            "user_001_mem_0006"
+          ],
+          "asked_after_session": "user_001_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_001_q_002",
+          "category": "temporal",
+          "query": "What city do I currently live in?",
+          "expected_answer": "Seattle",
+          "expected_memory_ids": [
+            "user_001_mem_0005"
+          ],
+          "asked_after_session": "user_001_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_001_q_003",
+          "category": "entity",
+          "query": "What did I tell you about Project Falcon?",
+          "expected_answer": "Working on Project Falcon with Liam, who shipped the first milestone",
+          "expected_memory_ids": [
+            "user_001_mem_0009",
+            "user_001_mem_0010"
+          ],
+          "asked_after_session": "user_001_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_001_q_004",
+          "category": "multi_hop",
+          "query": "What is my current role and where do I currently work?",
+          "expected_answer": "data scientist at Airbnb",
+          "expected_memory_ids": [
+            "user_001_mem_0004",
+            "user_001_mem_0002"
+          ],
+          "asked_after_session": "user_001_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Requires combining two independent memories."
+        },
+        {
+          "question_id": "user_001_q_005",
+          "category": "contradiction",
+          "query": "Where do I currently work?",
+          "expected_answer": "Airbnb",
+          "expected_memory_ids": [
+            "user_001_mem_0002"
+          ],
+          "asked_after_session": "user_001_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Supersedes earlier employer(s): Netflix."
+        },
+        {
+          "question_id": "user_001_q_006",
+          "category": "long_horizon",
+          "query": "What hobby did I mention taking up?",
+          "expected_answer": "woodworking",
+          "expected_memory_ids": [
+            "user_001_mem_0007"
+          ],
+          "asked_after_session": "user_001_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Stated in session 0 of 5; asked at the end of the history."
+        },
+        {
+          "question_id": "user_001_q_007",
+          "category": "distractor",
+          "query": "What is my own favorite type of cuisine (not a friend's or something I merely tried)?",
+          "expected_answer": "Mediterranean",
+          "expected_memory_ids": [
+            "user_001_mem_0006"
+          ],
+          "asked_after_session": "user_001_session_004",
+          "is_distractor_heavy": true,
+          "notes": "Conversation contains several unrelated food/employer mentions as distractors."
+        }
+      ]
+    },
+    {
+      "user_id": "user_002",
+      "seed": 42,
+      "messages": [
+        {
+          "message_id": "user_002_msg_0001",
+          "session_id": "user_002_session_000",
+          "turn_index": 0,
+          "role": "user",
+          "content": "traffic was brutal this morning",
+          "timestamp": "2024-01-08T09:00:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0002",
+          "session_id": "user_002_session_000",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:02:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0003",
+          "session_id": "user_002_session_000",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-08T09:03:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0004",
+          "session_id": "user_002_session_000",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:05:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0005",
+          "session_id": "user_002_session_000",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-08T09:06:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0006",
+          "session_id": "user_002_session_000",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:08:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0007",
+          "session_id": "user_002_session_000",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-01-08T09:09:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0008",
+          "session_id": "user_002_session_000",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-08T09:11:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0009",
+          "session_id": "user_002_session_000",
+          "turn_index": 8,
+          "role": "user",
+          "content": "My favorite type of food is Ethiopian.",
+          "timestamp": "2024-01-08T09:12:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0010",
+          "session_id": "user_002_session_000",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:14:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0011",
+          "session_id": "user_002_session_000",
+          "turn_index": 10,
+          "role": "user",
+          "content": "I tried Thai food last night for the first time, it was okay.",
+          "timestamp": "2024-01-08T09:15:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0012",
+          "session_id": "user_002_session_000",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:17:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0013",
+          "session_id": "user_002_session_000",
+          "turn_index": 12,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-08T09:18:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0014",
+          "session_id": "user_002_session_000",
+          "turn_index": 13,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-08T09:20:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0015",
+          "session_id": "user_002_session_001",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I work at Netflix.",
+          "timestamp": "2024-01-15T09:21:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0016",
+          "session_id": "user_002_session_001",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-15T09:23:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0017",
+          "session_id": "user_002_session_001",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I recently took up astrophotography as a hobby.",
+          "timestamp": "2024-01-15T09:24:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0018",
+          "session_id": "user_002_session_001",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-15T09:26:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0019",
+          "session_id": "user_002_session_001",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I started working on a new project called Orion.",
+          "timestamp": "2024-01-15T09:27:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0020",
+          "session_id": "user_002_session_001",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-15T09:29:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0021",
+          "session_id": "user_002_session_001",
+          "turn_index": 6,
+          "role": "user",
+          "content": "My role is designer.",
+          "timestamp": "2024-01-15T09:30:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0022",
+          "session_id": "user_002_session_001",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-15T09:32:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0023",
+          "session_id": "user_002_session_002",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I work at Airbnb.",
+          "timestamp": "2024-01-22T09:33:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0024",
+          "session_id": "user_002_session_002",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-22T09:35:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0025",
+          "session_id": "user_002_session_002",
+          "turn_index": 2,
+          "role": "user",
+          "content": "my phone battery has been dying fast",
+          "timestamp": "2024-01-22T09:36:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0026",
+          "session_id": "user_002_session_002",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-22T09:38:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0027",
+          "session_id": "user_002_session_002",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-22T09:39:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0028",
+          "session_id": "user_002_session_002",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:41:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0029",
+          "session_id": "user_002_session_002",
+          "turn_index": 6,
+          "role": "user",
+          "content": "My role is product manager.",
+          "timestamp": "2024-01-22T09:42:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0030",
+          "session_id": "user_002_session_002",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-22T09:44:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0031",
+          "session_id": "user_002_session_003",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-29T09:45:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0032",
+          "session_id": "user_002_session_003",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-29T09:47:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0033",
+          "session_id": "user_002_session_003",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I live in Portland now.",
+          "timestamp": "2024-01-29T09:48:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0034",
+          "session_id": "user_002_session_003",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-29T09:50:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0035",
+          "session_id": "user_002_session_003",
+          "turn_index": 4,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-29T09:51:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0036",
+          "session_id": "user_002_session_003",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-29T09:53:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0037",
+          "session_id": "user_002_session_003",
+          "turn_index": 6,
+          "role": "user",
+          "content": "Quick update on Project Orion: Kenji and I shipped the first milestone.",
+          "timestamp": "2024-01-29T09:54:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0038",
+          "session_id": "user_002_session_003",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-29T09:56:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0039",
+          "session_id": "user_002_session_003",
+          "turn_index": 8,
+          "role": "user",
+          "content": "One of my goals this year is to run a marathon.",
+          "timestamp": "2024-01-29T09:57:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0040",
+          "session_id": "user_002_session_003",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-29T09:59:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0041",
+          "session_id": "user_002_session_004",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-02-05T10:00:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0042",
+          "session_id": "user_002_session_004",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-02-05T10:02:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0043",
+          "session_id": "user_002_session_004",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-02-05T10:03:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0044",
+          "session_id": "user_002_session_004",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-02-05T10:05:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0045",
+          "session_id": "user_002_session_004",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-02-05T10:06:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0046",
+          "session_id": "user_002_session_004",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-02-05T10:08:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0047",
+          "session_id": "user_002_session_004",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-02-05T10:09:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0048",
+          "session_id": "user_002_session_004",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-02-05T10:11:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0049",
+          "session_id": "user_002_session_004",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-02-05T10:12:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0050",
+          "session_id": "user_002_session_004",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-02-05T10:14:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0051",
+          "session_id": "user_002_session_005",
+          "turn_index": 0,
+          "role": "user",
+          "content": "A friend of mine just joined Figma.",
+          "timestamp": "2024-02-12T10:15:00Z"
+        },
+        {
+          "message_id": "user_002_msg_0052",
+          "session_id": "user_002_session_005",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-02-12T10:17:00Z"
+        }
+      ],
+      "gold_memories": [
+        {
+          "memory_id": "user_002_mem_0001",
+          "content": "I work at Netflix.",
+          "session_id": "user_002_session_001",
+          "message_id": "user_002_msg_0015",
+          "timestamp": "2024-01-15T09:21:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": "user_002_mem_0002",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_002_mem_0002",
+          "content": "I work at Airbnb.",
+          "session_id": "user_002_session_002",
+          "message_id": "user_002_msg_0023",
+          "timestamp": "2024-01-22T09:33:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_002_mem_0003",
+          "content": "My role is designer.",
+          "session_id": "user_002_session_001",
+          "message_id": "user_002_msg_0021",
+          "timestamp": "2024-01-15T09:30:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": "user_002_mem_0004",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_002_mem_0004",
+          "content": "My role is product manager.",
+          "session_id": "user_002_session_002",
+          "message_id": "user_002_msg_0029",
+          "timestamp": "2024-01-22T09:42:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_002_mem_0005",
+          "content": "I live in Portland now.",
+          "session_id": "user_002_session_003",
+          "message_id": "user_002_msg_0033",
+          "timestamp": "2024-01-29T09:48:00Z",
+          "entity": null,
+          "fact_type": "city",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_002_mem_0006",
+          "content": "My favorite type of food is Ethiopian.",
+          "session_id": "user_002_session_000",
+          "message_id": "user_002_msg_0009",
+          "timestamp": "2024-01-08T09:12:00Z",
+          "entity": null,
+          "fact_type": "food_preference",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_002_mem_0007",
+          "content": "I recently took up astrophotography as a hobby.",
+          "session_id": "user_002_session_001",
+          "message_id": "user_002_msg_0017",
+          "timestamp": "2024-01-15T09:24:00Z",
+          "entity": null,
+          "fact_type": "hobby",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_002_mem_0008",
+          "content": "One of my goals this year is to run a marathon.",
+          "session_id": "user_002_session_003",
+          "message_id": "user_002_msg_0039",
+          "timestamp": "2024-01-29T09:57:00Z",
+          "entity": null,
+          "fact_type": "goal",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_002_mem_0009",
+          "content": "I started working on a new project called Orion.",
+          "session_id": "user_002_session_001",
+          "message_id": "user_002_msg_0019",
+          "timestamp": "2024-01-15T09:27:00Z",
+          "entity": "Orion",
+          "fact_type": "project",
+          "superseded_by": "user_002_mem_0010",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_002_mem_0010",
+          "content": "Quick update on Project Orion: Kenji and I shipped the first milestone.",
+          "session_id": "user_002_session_003",
+          "message_id": "user_002_msg_0037",
+          "timestamp": "2024-01-29T09:54:00Z",
+          "entity": "Orion",
+          "fact_type": "project",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_002_mem_0011",
+          "content": "I tried Thai food last night for the first time, it was okay.",
+          "session_id": "user_002_session_000",
+          "message_id": "user_002_msg_0011",
+          "timestamp": "2024-01-08T09:15:00Z",
+          "entity": null,
+          "fact_type": "distractor_food",
+          "superseded_by": null,
+          "is_current": false
+        },
+        {
+          "memory_id": "user_002_mem_0012",
+          "content": "A friend of mine just joined Figma.",
+          "session_id": "user_002_session_005",
+          "message_id": "user_002_msg_0051",
+          "timestamp": "2024-02-12T10:15:00Z",
+          "entity": null,
+          "fact_type": "distractor_employer",
+          "superseded_by": null,
+          "is_current": false
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "user_002_q_001",
+          "category": "preference",
+          "query": "What kind of food do I prefer?",
+          "expected_answer": "Ethiopian",
+          "expected_memory_ids": [
+            "user_002_mem_0006"
+          ],
+          "asked_after_session": "user_002_session_005",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_002_q_002",
+          "category": "temporal",
+          "query": "What city do I currently live in?",
+          "expected_answer": "Portland",
+          "expected_memory_ids": [
+            "user_002_mem_0005"
+          ],
+          "asked_after_session": "user_002_session_005",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_002_q_003",
+          "category": "entity",
+          "query": "What did I tell you about Project Orion?",
+          "expected_answer": "Working on Project Orion with Kenji, who shipped the first milestone",
+          "expected_memory_ids": [
+            "user_002_mem_0009",
+            "user_002_mem_0010"
+          ],
+          "asked_after_session": "user_002_session_005",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_002_q_004",
+          "category": "multi_hop",
+          "query": "What is my current role and where do I currently work?",
+          "expected_answer": "product manager at Airbnb",
+          "expected_memory_ids": [
+            "user_002_mem_0004",
+            "user_002_mem_0002"
+          ],
+          "asked_after_session": "user_002_session_005",
+          "is_distractor_heavy": false,
+          "notes": "Requires combining two independent memories."
+        },
+        {
+          "question_id": "user_002_q_005",
+          "category": "contradiction",
+          "query": "Where do I currently work?",
+          "expected_answer": "Airbnb",
+          "expected_memory_ids": [
+            "user_002_mem_0002"
+          ],
+          "asked_after_session": "user_002_session_005",
+          "is_distractor_heavy": false,
+          "notes": "Supersedes earlier employer(s): Netflix."
+        },
+        {
+          "question_id": "user_002_q_006",
+          "category": "long_horizon",
+          "query": "What hobby did I mention taking up?",
+          "expected_answer": "astrophotography",
+          "expected_memory_ids": [
+            "user_002_mem_0007"
+          ],
+          "asked_after_session": "user_002_session_005",
+          "is_distractor_heavy": false,
+          "notes": "Stated in session 0 of 6; asked at the end of the history."
+        },
+        {
+          "question_id": "user_002_q_007",
+          "category": "distractor",
+          "query": "What is my own favorite type of cuisine (not a friend's or something I merely tried)?",
+          "expected_answer": "Ethiopian",
+          "expected_memory_ids": [
+            "user_002_mem_0006"
+          ],
+          "asked_after_session": "user_002_session_005",
+          "is_distractor_heavy": true,
+          "notes": "Conversation contains several unrelated food/employer mentions as distractors."
+        }
+      ]
+    },
+    {
+      "user_id": "user_003",
+      "seed": 42,
+      "messages": [
+        {
+          "message_id": "user_003_msg_0001",
+          "session_id": "user_003_session_000",
+          "turn_index": 0,
+          "role": "user",
+          "content": "My favorite type of food is Ethiopian.",
+          "timestamp": "2024-01-08T09:00:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0002",
+          "session_id": "user_003_session_000",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-08T09:02:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0003",
+          "session_id": "user_003_session_000",
+          "turn_index": 2,
+          "role": "user",
+          "content": "A friend of mine just joined Meta.",
+          "timestamp": "2024-01-08T09:03:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0004",
+          "session_id": "user_003_session_000",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:05:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0005",
+          "session_id": "user_003_session_000",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I live in Boston now.",
+          "timestamp": "2024-01-08T09:06:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0006",
+          "session_id": "user_003_session_000",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-08T09:08:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0007",
+          "session_id": "user_003_session_000",
+          "turn_index": 6,
+          "role": "user",
+          "content": "traffic was brutal this morning",
+          "timestamp": "2024-01-08T09:09:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0008",
+          "session_id": "user_003_session_000",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:11:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0009",
+          "session_id": "user_003_session_000",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-08T09:12:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0010",
+          "session_id": "user_003_session_000",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-08T09:14:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0011",
+          "session_id": "user_003_session_001",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-15T09:15:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0012",
+          "session_id": "user_003_session_001",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-15T09:17:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0013",
+          "session_id": "user_003_session_001",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-15T09:18:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0014",
+          "session_id": "user_003_session_001",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-15T09:20:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0015",
+          "session_id": "user_003_session_001",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I recently took up bouldering as a hobby.",
+          "timestamp": "2024-01-15T09:21:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0016",
+          "session_id": "user_003_session_001",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-15T09:23:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0017",
+          "session_id": "user_003_session_001",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I work at Notion.",
+          "timestamp": "2024-01-15T09:24:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0018",
+          "session_id": "user_003_session_001",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-15T09:26:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0019",
+          "session_id": "user_003_session_001",
+          "turn_index": 8,
+          "role": "user",
+          "content": "My role is engineering manager.",
+          "timestamp": "2024-01-15T09:27:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0020",
+          "session_id": "user_003_session_001",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-15T09:29:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0021",
+          "session_id": "user_003_session_002",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-01-22T09:30:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0022",
+          "session_id": "user_003_session_002",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-22T09:32:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0023",
+          "session_id": "user_003_session_002",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-22T09:33:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0024",
+          "session_id": "user_003_session_002",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:35:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0025",
+          "session_id": "user_003_session_002",
+          "turn_index": 4,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-01-22T09:36:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0026",
+          "session_id": "user_003_session_002",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-22T09:38:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0027",
+          "session_id": "user_003_session_002",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-22T09:39:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0028",
+          "session_id": "user_003_session_002",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:41:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0029",
+          "session_id": "user_003_session_002",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-22T09:42:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0030",
+          "session_id": "user_003_session_002",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-22T09:44:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0031",
+          "session_id": "user_003_session_002",
+          "turn_index": 10,
+          "role": "user",
+          "content": "One of my goals this year is to get a pilot's license.",
+          "timestamp": "2024-01-22T09:45:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0032",
+          "session_id": "user_003_session_002",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-22T09:47:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0033",
+          "session_id": "user_003_session_003",
+          "turn_index": 0,
+          "role": "user",
+          "content": "My role is designer.",
+          "timestamp": "2024-01-29T09:48:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0034",
+          "session_id": "user_003_session_003",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-29T09:50:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0035",
+          "session_id": "user_003_session_003",
+          "turn_index": 2,
+          "role": "user",
+          "content": "A friend of mine just joined Figma.",
+          "timestamp": "2024-01-29T09:51:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0036",
+          "session_id": "user_003_session_003",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-29T09:53:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0037",
+          "session_id": "user_003_session_003",
+          "turn_index": 4,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-29T09:54:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0038",
+          "session_id": "user_003_session_003",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-29T09:56:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0039",
+          "session_id": "user_003_session_003",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-29T09:57:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0040",
+          "session_id": "user_003_session_003",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-29T09:59:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0041",
+          "session_id": "user_003_session_003",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-29T10:00:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0042",
+          "session_id": "user_003_session_003",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-29T10:02:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0043",
+          "session_id": "user_003_session_003",
+          "turn_index": 10,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-29T10:03:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0044",
+          "session_id": "user_003_session_003",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-29T10:05:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0045",
+          "session_id": "user_003_session_003",
+          "turn_index": 12,
+          "role": "user",
+          "content": "I work at Snowflake.",
+          "timestamp": "2024-01-29T10:06:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0046",
+          "session_id": "user_003_session_003",
+          "turn_index": 13,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-29T10:08:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0047",
+          "session_id": "user_003_session_004",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I started working on a new project called Orion.",
+          "timestamp": "2024-02-05T10:09:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0048",
+          "session_id": "user_003_session_004",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-02-05T10:11:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0049",
+          "session_id": "user_003_session_004",
+          "turn_index": 2,
+          "role": "user",
+          "content": "Quick update on Project Orion: Marcus and I shipped the first milestone.",
+          "timestamp": "2024-02-05T10:12:00Z"
+        },
+        {
+          "message_id": "user_003_msg_0050",
+          "session_id": "user_003_session_004",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-02-05T10:14:00Z"
+        }
+      ],
+      "gold_memories": [
+        {
+          "memory_id": "user_003_mem_0001",
+          "content": "I work at Notion.",
+          "session_id": "user_003_session_001",
+          "message_id": "user_003_msg_0017",
+          "timestamp": "2024-01-15T09:24:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": "user_003_mem_0002",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_003_mem_0002",
+          "content": "I work at Snowflake.",
+          "session_id": "user_003_session_003",
+          "message_id": "user_003_msg_0045",
+          "timestamp": "2024-01-29T10:06:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_003_mem_0003",
+          "content": "My role is engineering manager.",
+          "session_id": "user_003_session_001",
+          "message_id": "user_003_msg_0019",
+          "timestamp": "2024-01-15T09:27:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": "user_003_mem_0004",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_003_mem_0004",
+          "content": "My role is designer.",
+          "session_id": "user_003_session_003",
+          "message_id": "user_003_msg_0033",
+          "timestamp": "2024-01-29T09:48:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_003_mem_0005",
+          "content": "I live in Boston now.",
+          "session_id": "user_003_session_000",
+          "message_id": "user_003_msg_0005",
+          "timestamp": "2024-01-08T09:06:00Z",
+          "entity": null,
+          "fact_type": "city",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_003_mem_0006",
+          "content": "My favorite type of food is Ethiopian.",
+          "session_id": "user_003_session_000",
+          "message_id": "user_003_msg_0001",
+          "timestamp": "2024-01-08T09:00:00Z",
+          "entity": null,
+          "fact_type": "food_preference",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_003_mem_0007",
+          "content": "I recently took up bouldering as a hobby.",
+          "session_id": "user_003_session_001",
+          "message_id": "user_003_msg_0015",
+          "timestamp": "2024-01-15T09:21:00Z",
+          "entity": null,
+          "fact_type": "hobby",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_003_mem_0008",
+          "content": "One of my goals this year is to get a pilot's license.",
+          "session_id": "user_003_session_002",
+          "message_id": "user_003_msg_0031",
+          "timestamp": "2024-01-22T09:45:00Z",
+          "entity": null,
+          "fact_type": "goal",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_003_mem_0009",
+          "content": "I started working on a new project called Orion.",
+          "session_id": "user_003_session_004",
+          "message_id": "user_003_msg_0047",
+          "timestamp": "2024-02-05T10:09:00Z",
+          "entity": "Orion",
+          "fact_type": "project",
+          "superseded_by": "user_003_mem_0010",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_003_mem_0010",
+          "content": "Quick update on Project Orion: Marcus and I shipped the first milestone.",
+          "session_id": "user_003_session_004",
+          "message_id": "user_003_msg_0049",
+          "timestamp": "2024-02-05T10:12:00Z",
+          "entity": "Orion",
+          "fact_type": "project",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_003_mem_0011",
+          "content": "A friend of mine just joined Meta.",
+          "session_id": "user_003_session_000",
+          "message_id": "user_003_msg_0003",
+          "timestamp": "2024-01-08T09:03:00Z",
+          "entity": null,
+          "fact_type": "distractor_employer",
+          "superseded_by": null,
+          "is_current": false
+        },
+        {
+          "memory_id": "user_003_mem_0012",
+          "content": "A friend of mine just joined Figma.",
+          "session_id": "user_003_session_003",
+          "message_id": "user_003_msg_0035",
+          "timestamp": "2024-01-29T09:51:00Z",
+          "entity": null,
+          "fact_type": "distractor_employer",
+          "superseded_by": null,
+          "is_current": false
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "user_003_q_001",
+          "category": "preference",
+          "query": "What kind of food do I prefer?",
+          "expected_answer": "Ethiopian",
+          "expected_memory_ids": [
+            "user_003_mem_0006"
+          ],
+          "asked_after_session": "user_003_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_003_q_002",
+          "category": "temporal",
+          "query": "What city do I currently live in?",
+          "expected_answer": "Boston",
+          "expected_memory_ids": [
+            "user_003_mem_0005"
+          ],
+          "asked_after_session": "user_003_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_003_q_003",
+          "category": "entity",
+          "query": "What did I tell you about Project Orion?",
+          "expected_answer": "Working on Project Orion with Marcus, who shipped the first milestone",
+          "expected_memory_ids": [
+            "user_003_mem_0009",
+            "user_003_mem_0010"
+          ],
+          "asked_after_session": "user_003_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_003_q_004",
+          "category": "multi_hop",
+          "query": "What is my current role and where do I currently work?",
+          "expected_answer": "designer at Snowflake",
+          "expected_memory_ids": [
+            "user_003_mem_0004",
+            "user_003_mem_0002"
+          ],
+          "asked_after_session": "user_003_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Requires combining two independent memories."
+        },
+        {
+          "question_id": "user_003_q_005",
+          "category": "contradiction",
+          "query": "Where do I currently work?",
+          "expected_answer": "Snowflake",
+          "expected_memory_ids": [
+            "user_003_mem_0002"
+          ],
+          "asked_after_session": "user_003_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Supersedes earlier employer(s): Notion."
+        },
+        {
+          "question_id": "user_003_q_006",
+          "category": "long_horizon",
+          "query": "What hobby did I mention taking up?",
+          "expected_answer": "bouldering",
+          "expected_memory_ids": [
+            "user_003_mem_0007"
+          ],
+          "asked_after_session": "user_003_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Stated in session 0 of 5; asked at the end of the history."
+        },
+        {
+          "question_id": "user_003_q_007",
+          "category": "distractor",
+          "query": "What is my own favorite type of cuisine (not a friend's or something I merely tried)?",
+          "expected_answer": "Ethiopian",
+          "expected_memory_ids": [
+            "user_003_mem_0006"
+          ],
+          "asked_after_session": "user_003_session_004",
+          "is_distractor_heavy": true,
+          "notes": "Conversation contains several unrelated food/employer mentions as distractors."
+        }
+      ]
+    },
+    {
+      "user_id": "user_004",
+      "seed": 42,
+      "messages": [
+        {
+          "message_id": "user_004_msg_0001",
+          "session_id": "user_004_session_000",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I started working on a new project called Comet.",
+          "timestamp": "2024-01-08T09:00:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0002",
+          "session_id": "user_004_session_000",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:02:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0003",
+          "session_id": "user_004_session_000",
+          "turn_index": 2,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-08T09:03:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0004",
+          "session_id": "user_004_session_000",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:05:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0005",
+          "session_id": "user_004_session_000",
+          "turn_index": 4,
+          "role": "user",
+          "content": "My favorite type of food is Mediterranean.",
+          "timestamp": "2024-01-08T09:06:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0006",
+          "session_id": "user_004_session_000",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-08T09:08:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0007",
+          "session_id": "user_004_session_000",
+          "turn_index": 6,
+          "role": "user",
+          "content": "traffic was brutal this morning",
+          "timestamp": "2024-01-08T09:09:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0008",
+          "session_id": "user_004_session_000",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:11:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0009",
+          "session_id": "user_004_session_000",
+          "turn_index": 8,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-08T09:12:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0010",
+          "session_id": "user_004_session_000",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-08T09:14:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0011",
+          "session_id": "user_004_session_000",
+          "turn_index": 10,
+          "role": "user",
+          "content": "I've been trying to sleep earlier",
+          "timestamp": "2024-01-08T09:15:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0012",
+          "session_id": "user_004_session_000",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-08T09:17:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0013",
+          "session_id": "user_004_session_000",
+          "turn_index": 12,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-08T09:18:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0014",
+          "session_id": "user_004_session_000",
+          "turn_index": 13,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-08T09:20:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0015",
+          "session_id": "user_004_session_001",
+          "turn_index": 0,
+          "role": "user",
+          "content": "My role is software engineer.",
+          "timestamp": "2024-01-15T09:21:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0016",
+          "session_id": "user_004_session_001",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-15T09:23:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0017",
+          "session_id": "user_004_session_001",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I recently took up chess as a hobby.",
+          "timestamp": "2024-01-15T09:24:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0018",
+          "session_id": "user_004_session_001",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-15T09:26:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0019",
+          "session_id": "user_004_session_001",
+          "turn_index": 4,
+          "role": "user",
+          "content": "Quick update on Project Comet: Devon and I shipped the first milestone.",
+          "timestamp": "2024-01-15T09:27:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0020",
+          "session_id": "user_004_session_001",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-15T09:29:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0021",
+          "session_id": "user_004_session_001",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I work at Anthropic.",
+          "timestamp": "2024-01-15T09:30:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0022",
+          "session_id": "user_004_session_001",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-15T09:32:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0023",
+          "session_id": "user_004_session_001",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I tried Mexican food last night for the first time, it was okay.",
+          "timestamp": "2024-01-15T09:33:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0024",
+          "session_id": "user_004_session_001",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-15T09:35:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0025",
+          "session_id": "user_004_session_001",
+          "turn_index": 10,
+          "role": "user",
+          "content": "I live in Amsterdam now.",
+          "timestamp": "2024-01-15T09:36:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0026",
+          "session_id": "user_004_session_001",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-15T09:38:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0027",
+          "session_id": "user_004_session_002",
+          "turn_index": 0,
+          "role": "user",
+          "content": "the coffee shop near me changed its menu",
+          "timestamp": "2024-01-22T09:39:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0028",
+          "session_id": "user_004_session_002",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:41:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0029",
+          "session_id": "user_004_session_002",
+          "turn_index": 2,
+          "role": "user",
+          "content": "I finally organized my desk this week",
+          "timestamp": "2024-01-22T09:42:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0030",
+          "session_id": "user_004_session_002",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-22T09:44:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0031",
+          "session_id": "user_004_session_002",
+          "turn_index": 4,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-01-22T09:45:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0032",
+          "session_id": "user_004_session_002",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-22T09:47:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0033",
+          "session_id": "user_004_session_002",
+          "turn_index": 6,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-22T09:48:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0034",
+          "session_id": "user_004_session_002",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-22T09:50:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0035",
+          "session_id": "user_004_session_002",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-01-22T09:51:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0036",
+          "session_id": "user_004_session_002",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-22T09:53:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0037",
+          "session_id": "user_004_session_002",
+          "turn_index": 10,
+          "role": "user",
+          "content": "I've been meaning to read more",
+          "timestamp": "2024-01-22T09:54:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0038",
+          "session_id": "user_004_session_002",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-22T09:56:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0039",
+          "session_id": "user_004_session_003",
+          "turn_index": 0,
+          "role": "user",
+          "content": "I tried Italian food last night for the first time, it was okay.",
+          "timestamp": "2024-01-29T09:57:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0040",
+          "session_id": "user_004_session_003",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "That's good to know.",
+          "timestamp": "2024-01-29T09:59:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0041",
+          "session_id": "user_004_session_003",
+          "turn_index": 2,
+          "role": "user",
+          "content": "One of my goals this year is to get a pilot's license.",
+          "timestamp": "2024-01-29T10:00:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0042",
+          "session_id": "user_004_session_003",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Noted!",
+          "timestamp": "2024-01-29T10:02:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0043",
+          "session_id": "user_004_session_003",
+          "turn_index": 4,
+          "role": "user",
+          "content": "my phone battery has been dying fast",
+          "timestamp": "2024-01-29T10:03:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0044",
+          "session_id": "user_004_session_003",
+          "turn_index": 5,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-01-29T10:05:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0045",
+          "session_id": "user_004_session_003",
+          "turn_index": 6,
+          "role": "user",
+          "content": "My role is data scientist.",
+          "timestamp": "2024-01-29T10:06:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0046",
+          "session_id": "user_004_session_003",
+          "turn_index": 7,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-29T10:08:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0047",
+          "session_id": "user_004_session_003",
+          "turn_index": 8,
+          "role": "user",
+          "content": "I rewatched an old favorite movie last night",
+          "timestamp": "2024-01-29T10:09:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0048",
+          "session_id": "user_004_session_003",
+          "turn_index": 9,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-01-29T10:11:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0049",
+          "session_id": "user_004_session_003",
+          "turn_index": 10,
+          "role": "user",
+          "content": "I work at Meta.",
+          "timestamp": "2024-01-29T10:12:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0050",
+          "session_id": "user_004_session_003",
+          "turn_index": 11,
+          "role": "assistant",
+          "content": "Got it, thanks for sharing.",
+          "timestamp": "2024-01-29T10:14:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0051",
+          "session_id": "user_004_session_004",
+          "turn_index": 0,
+          "role": "user",
+          "content": "the weather has been unpredictable lately",
+          "timestamp": "2024-02-05T10:15:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0052",
+          "session_id": "user_004_session_004",
+          "turn_index": 1,
+          "role": "assistant",
+          "content": "Makes sense.",
+          "timestamp": "2024-02-05T10:17:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0053",
+          "session_id": "user_004_session_004",
+          "turn_index": 2,
+          "role": "user",
+          "content": "my phone battery has been dying fast",
+          "timestamp": "2024-02-05T10:18:00Z"
+        },
+        {
+          "message_id": "user_004_msg_0054",
+          "session_id": "user_004_session_004",
+          "turn_index": 3,
+          "role": "assistant",
+          "content": "Thanks for the update.",
+          "timestamp": "2024-02-05T10:20:00Z"
+        }
+      ],
+      "gold_memories": [
+        {
+          "memory_id": "user_004_mem_0001",
+          "content": "I work at Anthropic.",
+          "session_id": "user_004_session_001",
+          "message_id": "user_004_msg_0021",
+          "timestamp": "2024-01-15T09:30:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": "user_004_mem_0002",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_004_mem_0002",
+          "content": "I work at Meta.",
+          "session_id": "user_004_session_003",
+          "message_id": "user_004_msg_0049",
+          "timestamp": "2024-01-29T10:12:00Z",
+          "entity": null,
+          "fact_type": "employer",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_004_mem_0003",
+          "content": "My role is software engineer.",
+          "session_id": "user_004_session_001",
+          "message_id": "user_004_msg_0015",
+          "timestamp": "2024-01-15T09:21:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": "user_004_mem_0004",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_004_mem_0004",
+          "content": "My role is data scientist.",
+          "session_id": "user_004_session_003",
+          "message_id": "user_004_msg_0045",
+          "timestamp": "2024-01-29T10:06:00Z",
+          "entity": null,
+          "fact_type": "role",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_004_mem_0005",
+          "content": "I live in Amsterdam now.",
+          "session_id": "user_004_session_001",
+          "message_id": "user_004_msg_0025",
+          "timestamp": "2024-01-15T09:36:00Z",
+          "entity": null,
+          "fact_type": "city",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_004_mem_0006",
+          "content": "My favorite type of food is Mediterranean.",
+          "session_id": "user_004_session_000",
+          "message_id": "user_004_msg_0005",
+          "timestamp": "2024-01-08T09:06:00Z",
+          "entity": null,
+          "fact_type": "food_preference",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_004_mem_0007",
+          "content": "I recently took up chess as a hobby.",
+          "session_id": "user_004_session_001",
+          "message_id": "user_004_msg_0017",
+          "timestamp": "2024-01-15T09:24:00Z",
+          "entity": null,
+          "fact_type": "hobby",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_004_mem_0008",
+          "content": "One of my goals this year is to get a pilot's license.",
+          "session_id": "user_004_session_003",
+          "message_id": "user_004_msg_0041",
+          "timestamp": "2024-01-29T10:00:00Z",
+          "entity": null,
+          "fact_type": "goal",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_004_mem_0009",
+          "content": "I started working on a new project called Comet.",
+          "session_id": "user_004_session_000",
+          "message_id": "user_004_msg_0001",
+          "timestamp": "2024-01-08T09:00:00Z",
+          "entity": "Comet",
+          "fact_type": "project",
+          "superseded_by": "user_004_mem_0010",
+          "is_current": false
+        },
+        {
+          "memory_id": "user_004_mem_0010",
+          "content": "Quick update on Project Comet: Devon and I shipped the first milestone.",
+          "session_id": "user_004_session_001",
+          "message_id": "user_004_msg_0019",
+          "timestamp": "2024-01-15T09:27:00Z",
+          "entity": "Comet",
+          "fact_type": "project",
+          "superseded_by": null,
+          "is_current": true
+        },
+        {
+          "memory_id": "user_004_mem_0011",
+          "content": "I tried Mexican food last night for the first time, it was okay.",
+          "session_id": "user_004_session_001",
+          "message_id": "user_004_msg_0023",
+          "timestamp": "2024-01-15T09:33:00Z",
+          "entity": null,
+          "fact_type": "distractor_food",
+          "superseded_by": null,
+          "is_current": false
+        },
+        {
+          "memory_id": "user_004_mem_0012",
+          "content": "I tried Italian food last night for the first time, it was okay.",
+          "session_id": "user_004_session_003",
+          "message_id": "user_004_msg_0039",
+          "timestamp": "2024-01-29T09:57:00Z",
+          "entity": null,
+          "fact_type": "distractor_food",
+          "superseded_by": null,
+          "is_current": false
+        }
+      ],
+      "questions": [
+        {
+          "question_id": "user_004_q_001",
+          "category": "preference",
+          "query": "What kind of food do I prefer?",
+          "expected_answer": "Mediterranean",
+          "expected_memory_ids": [
+            "user_004_mem_0006"
+          ],
+          "asked_after_session": "user_004_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_004_q_002",
+          "category": "temporal",
+          "query": "What city do I currently live in?",
+          "expected_answer": "Amsterdam",
+          "expected_memory_ids": [
+            "user_004_mem_0005"
+          ],
+          "asked_after_session": "user_004_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_004_q_003",
+          "category": "entity",
+          "query": "What did I tell you about Project Comet?",
+          "expected_answer": "Working on Project Comet with Devon, who shipped the first milestone",
+          "expected_memory_ids": [
+            "user_004_mem_0009",
+            "user_004_mem_0010"
+          ],
+          "asked_after_session": "user_004_session_004",
+          "is_distractor_heavy": false,
+          "notes": null
+        },
+        {
+          "question_id": "user_004_q_004",
+          "category": "multi_hop",
+          "query": "What is my current role and where do I currently work?",
+          "expected_answer": "data scientist at Meta",
+          "expected_memory_ids": [
+            "user_004_mem_0004",
+            "user_004_mem_0002"
+          ],
+          "asked_after_session": "user_004_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Requires combining two independent memories."
+        },
+        {
+          "question_id": "user_004_q_005",
+          "category": "contradiction",
+          "query": "Where do I currently work?",
+          "expected_answer": "Meta",
+          "expected_memory_ids": [
+            "user_004_mem_0002"
+          ],
+          "asked_after_session": "user_004_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Supersedes earlier employer(s): Anthropic."
+        },
+        {
+          "question_id": "user_004_q_006",
+          "category": "long_horizon",
+          "query": "What hobby did I mention taking up?",
+          "expected_answer": "chess",
+          "expected_memory_ids": [
+            "user_004_mem_0007"
+          ],
+          "asked_after_session": "user_004_session_004",
+          "is_distractor_heavy": false,
+          "notes": "Stated in session 0 of 5; asked at the end of the history."
+        },
+        {
+          "question_id": "user_004_q_007",
+          "category": "distractor",
+          "query": "What is my own favorite type of cuisine (not a friend's or something I merely tried)?",
+          "expected_answer": "Mediterranean",
+          "expected_memory_ids": [
+            "user_004_mem_0006"
+          ],
+          "asked_after_session": "user_004_session_004",
+          "is_distractor_heavy": true,
+          "notes": "Conversation contains several unrelated food/employer mentions as distractors."
+        }
+      ]
+    }
+  ]
+}

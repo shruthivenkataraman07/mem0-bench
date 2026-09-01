@@ -1,0 +1,14 @@
+# Conventional RAG backend configuration.
+
+top_k: 5
+similarity_threshold: null   # e.g. 0.15 to drop low-similarity hits; null = no floor
+
+chunking:
+  strategy: message   # one chunk per user message (see memory/rag_adapter.py docstring)
+
+vector_store:
+  provider: numpy      # "numpy" (offline, default) or "chroma" (needs the `chroma` extra)
+
+embeddings:
+  provider: hashing    # "hashing" (offline, default) or "openai"
+  dim: 512

@@ -1,0 +1,3 @@
+# Full-context baseline configuration.
+
+max_context_tokens: 8000   # recency-window budget; truncation is always recorded, never silent

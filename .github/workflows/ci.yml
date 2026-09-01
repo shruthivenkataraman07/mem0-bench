@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.11"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python ${{ matrix.python-version }}
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install package
+        run: pip install -e ".[dev]"
+
+      - name: Lint (ruff)
+        run: ruff check .
+
+      - name: Type check (mypy)
+        run: mypy src/mem0_bench
+
+      - name: Unit tests (no paid APIs required)
+        run: pytest -v
+
+      - name: Smoke test the CLI end-to-end (local/offline mode)
+        run: |
+          mem0-bench generate --users 3 --turns 25 --seed 42
+          mem0-bench compare --backends rag,full-context \
+            --dataset datasets/conversations/synthetic_u3_t25_s42.json
